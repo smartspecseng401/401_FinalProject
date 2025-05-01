@@ -1,6 +1,6 @@
 # SmartSpec
 
-[https://smartspec401.vercel.app/](Website Link)
+[Website Link](https://smartspec401.vercel.app/)
 
 An AI-powered website that suggests PC Builds based on your preferences.
 
