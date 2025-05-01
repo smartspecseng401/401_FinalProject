@@ -17,7 +17,7 @@ An AI-powered website that suggests PC Builds based on your preferences.
 
 ## How we made it
 
-We used shadcn/ui components in Next.js to create a beautiful frontend.
-We have a Python backend which adheres to Microservices Architecture. We hosted this backend on AWS Lightsail.
-We hooked up the webapp to Gemini using it's API.
-We store user data in a PostgreSQL database on Supabase.
+- We used shadcn/ui components in Next.js to create a beautiful frontend.
+- We have a Python backend which adheres to Microservices Architecture. We hosted this backend on AWS Lightsail.
+- We hooked up the webapp to Gemini using it's API.
+- We store user data in a PostgreSQL database on Supabase.
