@@ -12,7 +12,7 @@ An AI-powered website that suggests PC Builds based on your preferences.
 | Alex        | Frontend Dev |
 | Alend       | Backend Dev |
 | Caleb       | Backend Dev |
-| Agustine    | Backend Dev |
+| Agustin     | Backend Dev |
 | Robert      | Backend Dev |
 
 ## How we made it
